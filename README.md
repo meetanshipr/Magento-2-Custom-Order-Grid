@@ -36,7 +36,8 @@ An organized orders data helps the admin for better order management with ease a
 
 • Analyze the order data
 
-For more information, visit [https://meetanshi.com/magento-2-custom-order-grid.html](https://meetanshi.com/magento-2-custom-order-grid.html)
+For more information, visit ***[https://meetanshi.com/magento-2-custom-order-grid.html](https://meetanshi.com/magento-2-custom-order-grid.html)***
 
-
+Need help with installation and configuration? Refer to the User Guide:
+***[https://meetanshi.com/docs/magento-2/custom-order-grid/](https://meetanshi.com/docs/magento-2/custom-order-grid/)***
 
