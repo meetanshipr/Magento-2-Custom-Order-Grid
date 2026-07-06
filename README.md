@@ -1,4 +1,4 @@
-# Magento 2 Custom Order Grid
+# Magento 2 Custom Order Grid Extension
 
 With the increasing traffic for E-commerce stores, the order management must be in place to avoid any errors in processing each order. For Magento 2 stores, Meetanshi has developed  ***[Magento 2 Custom Order Grid](https://meetanshi.com/magento-2-custom-order-grid.html)*** extension to facilitate an advanced sales orders grid to manage orders accurately and fast.
 
